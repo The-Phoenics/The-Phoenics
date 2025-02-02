@@ -2,7 +2,7 @@
 
 I'm a *Software developer* passionate about building scalable and high-performance systems with **Typescript** and **Go**.
 
-- I’m currently working on [Frag-Boutique](https://github.com/The-Phoenics/Frag-Boutique).
+- I’m currently working on [Frag-Boutique](https://github.com/The-Phoenics/Frag-Boutique) && [Blog-app](https://github.com/The-Phoenics/Blog-app).
 - Currently learning and practicing "**Go**".
 - Interested in "*Game Development*, *Web Development* and *Database Design*".
 - Find my articles [Hashnode](https://hashnode.com/@The-Phoenics).
