@@ -2,12 +2,15 @@
 
 I'm a *Software developer* passionate about building scalable and high-performance systems with **Typescript** and **Go**.
 
-- I’m currently working on [Frag-Boutique](https://github.com/The-Phoenics/Frag-Boutique) && [Blog-app](https://github.com/The-Phoenics/Blog-app).
-- Currently learning and practicing "**Go**".
+- I’m currently working on [Frag-Boutique](https://github.com/The-Phoenics/Frag-Boutique) && [Blogify](https://github.com/The-Phoenics/Blogify).
+- Currently practicing "**Go**" and "**Nextjs**".
 - Interested in "*Game Development*, *Web Development* and *Database Design*".
 - Find my articles [Hashnode](https://hashnode.com/@The-Phoenics).
 - How to reach me: "kar9205an@gmail.com"
 
+🌐  Visit My Website [***here***](https://the-phoenics.github.io).
+
+---
 
 <!--
 
