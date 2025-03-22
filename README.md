@@ -5,7 +5,7 @@
 <a href="https://twitter.com/phoenicstwt"><img src="https://img.shields.io/badge/Twitter%20-202020?&style=for-the-badge&logo=X&logoColor=white" alt="twitter"></a>
 <a href="https://discordapp.com/users/856245732294000660"><img src="https://img.shields.io/badge/Discord-2c2f33?style=for-the-badge&logo=discord&logoColor=5865F2" alt="discord" ></a>
 <a href="https://hashnode.com/@The-Phoenics"><img src="https://img.shields.io/badge/Hashnode-e4e4e7?style=for-the-badge&logo=hashnode&logoColor=2563eb" alt="articles" ></a>
-<a href="https://the-phoenics.itch.io"><img src="https://img.shields.io/badge/Itch.io-%231DA1F2.svg?&style=for-the-badge&logo=itch.io&logoColor=white&color=fa5c5c"></a> &nbsp <img width="60" height="50" src="https://github.com/The-Phoenics/The-Phoenics/blob/main/img/kitty-chase-pixel.gif" />
+<a href="https://the-phoenics.itch.io"><img src="https://img.shields.io/badge/Itch.io-%231DA1F2.svg?&style=for-the-badge&logo=itch.io&logoColor=white&color=fa5c5c"></a> &nbsp <!-- <img width="60" height="50" src="https://github.com/The-Phoenics/The-Phoenics/blob/main/img/kitty-chase-pixel.gif" /> -->
 </div>
 </details>
 
