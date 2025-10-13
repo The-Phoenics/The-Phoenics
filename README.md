@@ -15,7 +15,7 @@
 <summary><strong> &nbsp 🔧 &nbsp Tools & Technologies </strong></summary>  
 <br>
 <div>
-<img src="https://skillicons.dev/icons?i=cpp,ts,react,nextjs,expressjs,tailwind,prisma,postgres,mongodb,git,docker">
+<img src="https://skillicons.dev/icons?i=cpp,ts,nextjs,expressjs,tailwind,prisma,postgres,git,docker">
 </div>
 </details>
 
